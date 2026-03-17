@@ -1,0 +1,2 @@
+# friday-proj
+code project
